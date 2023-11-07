@@ -1,0 +1,3 @@
+I am living in Edinburg, TX.
+I am learning flask in python.
+I like watching soccer game.

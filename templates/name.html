@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" type="text/css" href="static/basic.css">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename ='basic.css')}}">
+</head>
+<body>
+
+    <p>Hello there, {{Sname}}!</p>
+    
+    {% for name in nameList %}
+    
+    <p>Hello, {{ name }}</p>
+    
+    {% endfor %}
+</body>
+
+
