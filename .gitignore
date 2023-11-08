@@ -1,6 +1,5 @@
 .vscode/
 static\secrete.txt
-.hwEnv
 hwEnv/
 
 .DS_Store
