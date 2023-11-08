@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 I am living in Edinburg, TX.
 I am learning flask in python.
+=======
+I am living in Edinburg, TX.
+I am learning flask in python.
+>>>>>>> bd4a2d6ccbc7368663675a2d322650a0ebf6064b
 I like watching soccer game.
