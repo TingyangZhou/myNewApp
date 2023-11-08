@@ -1,0 +1,19 @@
+<link rel="stylesheet" type="text/css" href="static/basic.css">
+
+<head>
+<title>This is a form demo!</title>
+</head>
+
+<form method="post">
+Name: <input name="Sname"/>
+<br/><br/>
+Email: <input email = "Email"/>
+<br/><br/>
+<button type="submit">Submit</button>
+</form>
+
+{% if name %}  <!--if you have a name-->
+<div class="content">
+<p>Here is a quote for you, {{name}}!</p>
+</div>
+{% endif %}
