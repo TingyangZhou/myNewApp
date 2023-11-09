@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-blinker==1.7.0
+blinker
 click==8.1.7
 colorama==0.4.6
 Flask==3.0.0
